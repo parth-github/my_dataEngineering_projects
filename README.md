@@ -30,6 +30,7 @@ B) Install spark-scala-version-hadoop-version
 C) Download and place winutils.exe in SPARK_HOME\hadoop
 !set SPARK_HOME and HADOOP_HOME=%SPARK_HOME%\hadoop
 
+OR
 PATH=%PATH%,%SPARK_HOME%\bin
 1.	Create and Change to workspace directory 'learningPyspark'
 2.	Launch Anaconda prompt (miniconda)
