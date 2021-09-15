@@ -80,11 +80,11 @@ Week 3 : Data Streaming
 9.	For each type of segment, calculate stats of different cities. Stats include max, min, average, and total records
 
 Week 3 : Data Streaming
-1.	Add necessary spark dependencies
-2.	Create Schema of the CSV files
-3.	Create Spark session
-         a) Add Object Storage Service details as per the Cloud provider
-         b) Add all variables to your environment as they contain sensitive data
+    1.	Add necessary spark dependencies
+    2.	Create Schema of the CSV files
+    3.	Create Spark session
+             a) Add Object Storage Service details as per the Cloud provider
+             b) Add all variables to your environment as they contain sensitive data
      4.    Read CSV files and convert them into dataset
      5.   Convert “order_purchase_timestamp” to week and day using UDF
      6.   Calculate Total Sales and Order distribution for day and week for each city
