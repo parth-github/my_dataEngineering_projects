@@ -11,7 +11,8 @@ Analysis to be done: Exploratory analysis, to determine actionable insights.
 
 Dataset File: olist_public_dataset.csv
 
-image
+![image](https://user-images.githubusercontent.com/8849821/135619748-928f8e90-0f98-4ad7-a8b0-0db3ceb1acc1.png)
+
 
 #Tasks to perform: Week 1: Approach Overview and Basic Configurations
 
